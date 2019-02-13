@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124046110963",
+    "firebase_url": "https://ultra-80500.firebaseio.com",
+    "project_id": "ultra-80500",
+    "storage_bucket": "ultra-80500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124046110963:android:f2236470dab38536",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124046110963-ntq91uip76p7ej1mk8g6685n5q502dlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHywFBvYkw4arHPEwRRYUmdqromJCrxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
